@@ -16,7 +16,7 @@ I am so grateful to my parents for the opportunity to learn from the best teache
 
 
 ## Connect with me  
-<a href="https://github.com/salymbaeva17" target="_blank" style="font-family: "Roboto", sans-serif; font-weight: 700; color: black>
+<a href="https://github.com/salymbaeva17" target="_blank" style="font-family: "Roboto", sans-serif; font-weight: 700; color: black">
 GitHub
 </a>
 <a href="https://instagram.com/aitolkun_17" target="_blank"></a>
