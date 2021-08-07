@@ -17,7 +17,7 @@ I am so grateful to my parents for the opportunity to learn from the best teache
 
 ## Connect with me  
 <a href="https://github.com/salymbaeva17" target="_blank">
-<img src=https://www.flaticon.com/ru/free-icon/github-logo_25231 alt=github style="margin-bottom: 5px;" />
+<img src="https://www.flaticon.com/ru/free-icon/github-logo_25231" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/aitolkun_17" target="_blank"></a>
 <br/>  
