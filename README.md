@@ -24,7 +24,7 @@ I am so grateful to my parents for the opportunity to learn from the best teache
 
 ##  Github Stats:  
 
-<img src="https://github-readme-stats.vercel.app/api?username=salymbaeva17&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<img src=https://github-readme-stats.vercel.app/api?username=salymbaeva17&show_icons=true&count_private=true&hide_border=true align="center" />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salymbaeva17&layout=compact)](https://github.com/salymbaeva17/github-readme-stats)
 
