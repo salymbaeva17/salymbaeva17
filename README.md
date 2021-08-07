@@ -16,15 +16,15 @@ I am so grateful to my parents for the opportunity to learn from the best teache
 
 
 ## Connect with me  
-<a href="https://github.com/salymbaeva17" target="_blank" style="font-family: "Roboto", sans-serif; font-weight: 700; color: black">
-GitHub
+<a href="https://github.com/salymbaeva17" target="_blank">
+<img src=https://www.flaticon.com/ru/free-icon/github-logo_25231 alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/aitolkun_17" target="_blank"></a>
 <br/>  
 
 ##  Github Stats:  
 
-<img src=https://github-readme-stats.vercel.app/api?username=salymbaeva17&show_icons=true&count_private=true&hide_border=true align="center" />  
+<img src="https://github-readme-stats.vercel.app/api?username=salymbaeva17&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salymbaeva17&layout=compact)](https://github.com/salymbaeva17/github-readme-stats)
 
