@@ -5,7 +5,7 @@
 ```javascript
 const aboutMe = {
   pronouns: "she" | "her",
-  code: [Javascript, TypeScript, HTML],
+  code: [Javascript, TypeScript, HTML, CSS],
   tools: [React, Bootstrap, Sass, Owl Carousel, Git, WebStorm],
   studentOf: [Nevis Tech ITDB Bootcamp, Kyrgyz German INstitute of Applied Informatics],
   challenge: "I am doing the #100DaysOfCode focused on deep learning Javascript, React and TypeScript."
