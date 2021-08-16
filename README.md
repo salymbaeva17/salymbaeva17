@@ -4,6 +4,7 @@
 
 ```javascript
 const aboutMe = {
+  fullName: "Aitolkun Salymbaeva"
   pronouns: "she" | "her",
   code: ["Javascript", "TypeScript", "HTML", "CSS"],
   tools: ["React", "Bootstrap", "Sass", "Owl Carousel", "Git", "WebStorm"],
