@@ -7,7 +7,7 @@ const aboutMe = {
   fullName: "Aitolkun Salymbaeva",
   pronouns: "she" | "her",
   code: ["Javascript", "TypeScript", "HTML", "CSS"],
-  tools: ["React", "Bootstrap", "Sass", "Owl Carousel", "Git", "WebStorm"],
+  tools: ["React.js", "Bootstrap", "Node.js", "Sass", "Vercel", "Owl Carousel", "Git", "WebStorm"],
   studentOf: ["Nevis Tech ITDB Bootcamp", "Kyrgyz German INstitute of Applied Informatics"],
   challenge: "I am doing the #100DaysOfCode focused on deep learning Javascript, React and TypeScript."
 }
@@ -15,4 +15,6 @@ const aboutMe = {
 <em><b>I love connecting with different people so if you want to say "Hi", I'll be nice to meet you!</b> :)</em>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
+### My skills:
+<a href="https://www.codewars.com/users/Aitolkun"><img src="https://www.codewars.com/users/Aitolkun/badges/large"></a>
 <br/>  
