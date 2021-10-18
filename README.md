@@ -7,7 +7,7 @@ const aboutMe = {
   fullName: "Aitolkun Salymbaeva",
   pronouns: "she" | "her",
   code: ["Javascript", "TypeScript", "HTML", "CSS", "Python"],
-  tools: ["React.js", "Bootstrap", "Node.js", "Sass", "Vercel", "Owl Carousel", "Git", "WebStorm", "Redux", "Jira", "Tailwind"],
+  tools: ["React.js", "Bootstrap", "Node.js", "MongoDB", "Sass", "Vercel", "Owl Carousel", "Git", "WebStorm", "Redux", "Jira", "Tailwind"],
   studentOf: ["Nevis Tech ITDB Bootcamp", "Kyrgyz German INstitute of Applied Informatics"],
   challenge: "I am doing the #100DaysOfCode focused on deep learning Javascript, React and TypeScript."
 }
