@@ -7,7 +7,6 @@
 ```javascript
 const aboutMe = {
   fullName: "Aitolkun Salymbaeva",
-  pronouns: "she" | "her",
   code: ["Javascript", "TypeScript", "HTML", "CSS", "Python"],
   tools: ["React.js", "Bootstrap", "Node.js", "MongoDB", "Sass", "Vercel", "Express", "Owl Carousel", "Git", "WebStorm", "Redux", "Jira", "Tailwind"],
   tasksSolving: ["Codewars", "HackerRank", "LeetCode"],
