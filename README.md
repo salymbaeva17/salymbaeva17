@@ -8,7 +8,7 @@
 const aboutMe = {
   fullName: "Aitolkun Salymbaeva",
   code: ["Javascript", "TypeScript", "HTML", "CSS", "Python"],
-  tools: ["React.js", "Bootstrap", "Node.js", "MongoDB", "Sass", "Vercel", "Express", "Owl Carousel", "Git", "WebStorm", "Redux", "Tailwind"],
+  tools: ["React.js", "Bootstrap", "Node.js", "MongoDB", "Sass", "Vercel", "Express", "Owl Carousel", "Git", "WebStorm", "Redux", "Notion", "Tailwind"],
   tasksSolving: ["Codewars", "HackerRank", "LeetCode"],
   studentOf: ["Nevis Tech ITDB Bootcamp", "Kyrgyz German INstitute of Applied Informatics"],
   challenge: "I am doing the #100DaysOfCode focused on deep learning Javascript, React and TypeScript."
